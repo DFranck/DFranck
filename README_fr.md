@@ -1,29 +1,35 @@
-# Bonjour, je m'appelle Franck Dufournet 👋
+# Développeur React.js / Next.js
 
-## À propos de moi
-Je suis un développeur web passionné avec une excellente capacité d'intégration web, en particulier HTML, CSS et SASS ainsi qu'une bonne maitrise du SEO et du Responsive (Mobile first ou pas).
-J'ai acquis ces compétences grâce à des formations sur OpenClassroom et FromScratch. J'adore apprendre de nouvelles technologies et améliorer constamment mes compétences.
+Passionné par la création d'expériences web dynamiques et réactives, je me spécialise dans le développement front-end avec un vif intérêt pour les projets full-stack. Mon parcours m'a amené à maîtriser une suite de technologies qui me permettent de livrer des applications de haute qualité et performantes.
 
-## 🚀 Compétences
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![SEO](https://img.shields.io/badge/-SEO-006400?style=flat)
-![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-563D7C?style=flat)
+## 🚀 Pile Technologique Actuelle :
 
-## 🎓 Formation en cours
-Je suis actuellement en train de suivre une formation certifiante de 2000 heures auprès de OpenClassroom pour "Javascript React", ainsi que la formation de FromScratch "Mastering Front-End" qui couvrent toute deux JS, React, Git, et GitHub.
+- **Next.js** : Une plateforme leader pour le SSR et le SSG, me permettant de construire des applications web haute performance et SEO-friendly.
+- **React.js** : Spécialiste dans la création d'interfaces utilisateur interactives.
+- **Redux.js** : Expert en gestion d'état d'application.
+- **Prisma** : Assure des interactions de base de données fluides et sécurisées.
+- **Next.Auth** : Implémente des systèmes d'authentification robustes.
+- **Zod** : Utilisé pour la validation précise des données.
+- **Jest** : Réalise des tests unitaires et d'intégration fiables.
+- **Tailwind / Sass** : Conçoit des interfaces réactives et visuellement attrayantes.
 
-## 🌱 Je suis en train d'apprendre
-- Javascript
-- React
-- Git
-- Github
+## 🔍 Compétences Supplémentaires :
 
-## 📫 Comment me joindre
-- [Envoyez-moi un e-mail](mailto:franckdufournet@hotmail.fr)
-- [Connectez-vous avec moi sur LinkedIn](https://www.linkedin.com/in/franck-dufournet-239446151/)
+- Compétent avec **Git, GitHub** pour le versionnage de code et le développement collaboratif.
+- Expérimenté dans **Npm** pour la gestion efficace des packages. [pmf-table package](https://www.npmjs.com/package/pmf-table)
 
-## 📊 Mes statistiques GitHub
-![Franck's GitHub stats](https://github-readme-stats.vercel.app/api?username=DFranck&show_icons=true&theme=tokyonight)
+## 🌱 Quoi de Neuf dans Mon Parcours d'Apprentissage ?
 
+- **Stripe** : Pour élargir mes capacités dans le traitement des paiements en ligne, visant à offrir des solutions e-commerce complètes.
+- **Vue.js** : Désireux de plonger dans Vue.js pour son cadre progressif qui complète mon ensemble de compétences dans la construction d'applications web polyvalentes.
+
+## 📫 Comment Me Contacter
+
+Je suis ouvert à discuter d'opportunités à temps partiel, à temps plein ou en remote, et toujours curieux d'en apprendre davantage sur des projets innovants. Si vous avez des questions ou si vous êtes intéressé par une collaboration, voici comment vous pouvez me contacter :
+
+- Connectez-vous avec moi directement sur [LinkedIn](VotreURLLinkedIn).
+- Envoyez-moi un e-mail à [franckdufournet@hotmail.fr](mailto:franckdufournet@hotmail.fr).
+- Découvrez mes projets sur [GitHub](https://github.com/DFranck).
+- Visitez mon portfolio : [https://dfranck.netlify.app/](https://dfranck.netlify.app/) pour voir plus de mon travail.
+
+Je suis enthousiaste à l'idée de relever de nouveaux défis et opportunités pour appliquer ma passion pour le développement web. N'hésitez pas à me contacter pour toute idée de projet ou si vous recherchez un collaborateur dédié.
