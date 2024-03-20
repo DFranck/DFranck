@@ -27,7 +27,7 @@ Passionate about creating dynamic and responsive web experiences, I specialize i
 
 I am open to discussing part-time, full-time, or remote opportunities, and always curious to learn about innovative projects. If you have any questions or are interested in collaboration, here's how you can get in touch:
 
-- Connect with me directly on [LinkedIn](YourLinkedInURL).![Uploading image.png…]()
+- Connect with me directly on [LinkedIn](YourLinkedInURL).[![Uploading image.png…]()](https://camo.githubusercontent.com/0af87727e397c8bd5ef53edfdd410c6521aebab378a9adefce552437afd4559d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)
 
 - Send me an email at [franckdufournet@hotmail.fr](mailto:franckdufournet@hotmail.fr).
 - Check out my projects on [GitHub](https://github.com/DFranck).
