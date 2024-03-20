@@ -27,7 +27,8 @@ Passionate about creating dynamic and responsive web experiences, I specialize i
 
 I am open to discussing part-time, full-time, or remote opportunities, and always curious to learn about innovative projects. If you have any questions or are interested in collaboration, here's how you can get in touch:
 
-- Connect with me directly on [LinkedIn](YourLinkedInURL).
+- Connect with me directly on [LinkedIn](YourLinkedInURL).![Uploading image.png…]()
+
 - Send me an email at [franckdufournet@hotmail.fr](mailto:franckdufournet@hotmail.fr).
 - Check out my projects on [GitHub](https://github.com/DFranck).
 - Visit my portfolio: [https://dfranck.netlify.app/](https://dfranck.netlify.app/) to see more of my work.
