@@ -5,7 +5,11 @@ Passionate about creating dynamic and responsive web experiences, I specialize i
 ## 🚀 Current Stack:
 <ul>
   <h2>frameworks</h2>
-  <li>[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)</li>
+  <li><a>
+    
+  [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+  </a>
+  </li>
   <li>[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)</li>
 </ul>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
