@@ -3,7 +3,7 @@
 I'm passionate about creating dynamic and responsive web experiences. Specializing in front-end development with a keen interest in full-stack projects, I've mastered a suite of technologies that enable me to deliver high-quality, performant applications.
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([YourLinkedInURL](https://www.linkedin.com/in/franck-dufournet-239446151/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/franck-dufournet-239446151/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:franckdufournet@hotmail.fr)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/DFranck)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A192F?style=flat&logo=Netlify&logoColor=white)](https://dfranck.netlify.app/)
