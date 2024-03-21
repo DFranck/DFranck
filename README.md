@@ -10,6 +10,7 @@ I specializing myself in front-end development with a keen interest in full-stac
 [![Malt](https://img.shields.io/badge/-Malt-F7DF1E?style=flat&logo=data:image/png;base64,...)](https://www.malt.fr/profile/propro1)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat&logo=data:image/png;base64,...)](YourFiverrProfileURL)
 
+
 I am open to part-time, full-time in remote opportunities. Always curious to learn about innovative projects. Don't hesitate to contact me for project ideas or collaboration.
 
 ---
