@@ -8,7 +8,7 @@ I'm passionate about creating dynamic and responsive web experiences. Specializi
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/DFranck)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A192F?style=flat&logo=Netlify&logoColor=white)](https://dfranck.netlify.app/)
 
-# Current Stack
+# 🛠️ Current Stack
 
 ## Frontend
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)](https://nextjs.org/)
@@ -31,13 +31,12 @@ I'm passionate about creating dynamic and responsive web experiences. Specializi
 ## Design
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white)](https://figma.com/)
 
-# Additional Skills
+# 📚 Additional Skills
 - Proficient with Git & GitHub
 - Experienced in package management with Npm
 
-# What's Next in My Learning Journey?
-- Diving into Stripe for e-commerce solutions
-- Exploring Vue.js for building versatile web applications
+# 🌱 What's Next in My Learning Journey?
+- Diving into mastering Next framework to provide powerfull app
 
 ---
 
