@@ -8,16 +8,9 @@ I specializing myself in front-end development with a keen interest in full-stac
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/DFranck)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A192F?style=flat&logo=Netlify&logoColor=white)](https://dfranck.netlify.app/)
 
-# Additional Skills
-- Proficient with Git & GitHub
-- Experienced in package management with Npm
-
-# What's Next in My Learning Journey?
-- Diving into mastering the Next.js framework to provide powerful applications.
+I am open to part-time, full-time in remote opportunities. Always curious to learn about innovative projects. Don't hesitate to contact me for project ideas or collaboration.
 
 ---
-
-I am open to part-time, full-time in remote opportunities. Always curious to learn about innovative projects. Don't hesitate to contact me for project ideas or collaboration.
 
 # Current Stack
 
@@ -41,3 +34,12 @@ I am open to part-time, full-time in remote opportunities. Always curious to lea
 
 ## Design
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white)](https://figma.com/)
+
+# Additional Skills
+- Proficient with Git & GitHub
+- Experienced in package management with Npm
+
+---
+
+# What's Next in My Learning Journey?
+- Diving into mastering the Next.js framework to provide powerful applications.
