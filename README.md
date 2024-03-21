@@ -3,7 +3,11 @@
 Passionate about creating dynamic and responsive web experiences, I specialize in front-end development with a keen interest in full-stack projects. My journey has led me to master a suite of technologies that enable me to deliver high-quality, performant applications.
 
 ## 🚀 Current Stack:
-
+<ul>
+  <h2>frameworks</h2>
+  <li>[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)</li>
+  <li>[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)</li>
+</ul>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
