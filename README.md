@@ -4,6 +4,9 @@ Passionate about creating dynamic and responsive web experiences, I specialize i
 
 ## 🚀 Current Stack:
 
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=FFFFFF)
+![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
 - **Next.js**: A leading SSR and SSG platform, allowing me to build high-performance, SEO-friendly web applications.
 - **React.js**: Specializing in crafting interactive user interfaces.
 - **Redux.js**: Expert in application state management.
