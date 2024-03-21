@@ -27,7 +27,7 @@ Passionate about creating dynamic and responsive web experiences, I specialize i
 
 I am open to discussing part-time, full-time, or remote opportunities, and always curious to learn about innovative projects. If you have any questions or are interested in collaboration, here's how you can get in touch:
 
-- Connect with me directly on ![Static Badge](https://img.shields.io/badge/:badgeContent?style=plastic&logo=Linkedin&logoColor=white&label=Linkedin&labelColor=white&color=blue&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffranck-dufournet-239446151%2F&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffranck-dufournet-239446151%2F)
+- Connect with me directly on - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YourLinkedInURL)
 
 
 
