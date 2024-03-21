@@ -1,4 +1,4 @@
-# React.js | Next.js Developer
+# React.js | Next.js Front-end Developer
 
 I specializing myself in front-end development with a keen interest in full-stack projects, I've mastered a suite of technologies that enable me to deliver high-quality, performant applications.
 
