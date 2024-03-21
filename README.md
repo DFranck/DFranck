@@ -1,6 +1,6 @@
 # React.js | Next.js Developer
 
-I'm passionate about creating dynamic and responsive web experiences. Specializing in front-end development with a keen interest in full-stack projects, I've mastered a suite of technologies that enable me to deliver high-quality, performant applications.
+I specializing myself in front-end development with a keen interest in full-stack projects, I've mastered a suite of technologies that enable me to deliver high-quality, performant applications.
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/franck-dufournet-239446151/)
@@ -36,8 +36,8 @@ I'm passionate about creating dynamic and responsive web experiences. Specializi
 - Experienced in package management with Npm
 
 # 🌱 What's Next in My Learning Journey?
-- Diving into mastering Next framework to provide powerfull app
+- Diving into mastering the Next.js framework to provide powerful applications.
 
 ---
 
-I am open to part-time, full-time, or remote opportunities. Always curious to learn about innovative projects. Don't hesitate to contact me for project ideas or collaboration.
+I am open to part-time, full-time in remote opportunities. Always curious to learn about innovative projects. Don't hesitate to contact me for project ideas or collaboration.
