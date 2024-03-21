@@ -4,7 +4,7 @@ Passionate about creating dynamic and responsive web experiences, I specialize i
 
 ## 🚀 Current Stack:
 
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
+
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
 </a>
