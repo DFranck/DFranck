@@ -39,7 +39,7 @@ I care about code quality, architecture, performance, and developer experience. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/franck-dufournet-239446151/)  
 📫 [franckdufournet@hotmail.fr](mailto:franckdufournet@hotmail.fr)  
-🌍 [Portfolio](https://dfranck.netlify.app/) · [GitHub](https://github.com/DFranck) · [Malt](https://www.malt.fr/profile/propro1)
+🌍 [Portfolio]([https://dfranck.netlify.app/](https://pmf-portfolio.vercel.app/)) · [GitHub](https://github.com/DFranck) · [Malt](https://www.malt.fr/profile/propro1)
 
 ---
 
